@@ -6,7 +6,7 @@ plugins:
 title: Google Earth Engine Training
 description: Here is a description
 
-logo: logo.webp
+logo: logo.png
 
 navigation:
   - name: Home Page
