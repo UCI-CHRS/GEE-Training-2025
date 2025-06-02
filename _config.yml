@@ -11,9 +11,12 @@ logo: logo.webp
 navigation:
   - name: Home Page
     link: ./
+  - name: Get Started
+    link: ./notebooks/Tutorial00_Setup_GEE.pdf
   - name: Notebooks
     link: https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks
   - name: Examples
+    link: ./examples.md
     sublist:
-      - name: Surface Water
-        link: ./examples/SurfaceWater.html
+      - name: Data Catalog
+        link: ./examples/Access_Data.html
