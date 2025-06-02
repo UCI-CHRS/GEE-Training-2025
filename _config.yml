@@ -1,0 +1,19 @@
+remote_theme: vaibhavvikas/jekyll-theme-minimalistic
+color-scheme: light
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: Google Earth Engine Training
+description: Here is a description
+
+logo: logo.webp
+
+navigation:
+  - name: Home Page
+    link: ./
+  - name: Notebooks
+    link: https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks
+  - name: Examples
+    sublist:
+      - name: Surface Water
+        link: ./examples/SurfaceWater.html
