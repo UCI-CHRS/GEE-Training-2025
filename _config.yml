@@ -7,6 +7,7 @@ title: PEER2PEER Transboundary Water Security
 description: Materials for the Google Earth Engine Training held by the Accelnet PEER2PEER early career researchers in Dar es Salaam, Tanzania, June 2025.
 
 logo: ./assets/logo1.png
+favicon: true
 
 navigation:
   - name: Home Page
