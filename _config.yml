@@ -6,7 +6,7 @@ plugins:
 title: Google Earth Engine Training
 description: Materials for the Google Earth Engine Training held by the Accelnet PEER2PEER early career researchers in Dar es Salaam, Tanzania, June 2025.
 
-logo: logo.png
+logo: ./assets/logo.png
 
 navigation:
   - name: Home Page
