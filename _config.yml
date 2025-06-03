@@ -4,8 +4,6 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: PEER2PEER Transboundary Water Security
-description: Materials for the Google Earth Engine Training held by the Accelnet PEER2PEER early career researchers in Dar es Salaam, Tanzania, June 2025.
-
 logo: ./assets/logo1.png
 favicon: true
 
