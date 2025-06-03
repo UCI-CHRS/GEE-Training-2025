@@ -18,5 +18,5 @@ navigation:
   - name: Examples
     link: ./examples.md
     sublist:
-      - name: Data Catalog
+      - name: Explore GEE Data Catalog
         link: ./examples/Tutorial01_Access_Data.html
