@@ -1,5 +1,5 @@
 # Google Earth Engine Training
-Welcome to the Accelnet PEER2PEER training on Google Earth Engine!
+Materials for the Google Earth Engine Training held by the Accelnet PEER2PEER early career researchers in Dar es Salaam, Tanzania, June 2025.
 
 ## Introduction
 We will be using 
