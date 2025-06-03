@@ -16,7 +16,6 @@ navigation:
   - name: Notebooks
     link: https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks
   - name: Examples
-    link: ./examples.md
     sublist:
       - name: Explore GEE Data Catalog
         link: ./examples/Tutorial01_Access_Data.html
