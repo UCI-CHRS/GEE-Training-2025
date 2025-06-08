@@ -33,7 +33,7 @@ The tutorials can help when you need extra guidance on how to carry out a specif
 > * Example: you want to use [ee.Geometry.BBox](https://developers.google.com/earth-engine/apidocs/ee-geometry-bbox) to define your region of interest, but you don't remember the order of bounding coordinates it accepts
 
 # Python modules
-There are many additional Python modules that you can use in your analysis besides `ee`. We've touched on a couple in this tutorial, but list here documentation for other Python modules commonly used for geospatial work in Python. 
+There are many additional Python modules that you can use in your analysis besides `ee`. We list here documentation for Python modules commonly used for geospatial work in Python (some of which we used in this training). 
 - **[geemap](https://geemap.org/)**: use for mapping `ee` data
 - **[numpy](https://numpy.org/doc/stable/)**: use for working with arrays and matrices
 - **[scipy](https://docs.scipy.org/doc/scipy/)**: provides general algorithms common in math and science. In particular, see that [stats submodule](https://docs.scipy.org/doc/scipy/reference/stats.html) for using and defining statistical distributions. 
