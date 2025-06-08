@@ -15,4 +15,4 @@ navigation:
   - name: Notebooks
     link: https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks
   - name: Additional Resources
-    link: ./assets/Additional%20Resources.md
+    link: ./additional-resources
