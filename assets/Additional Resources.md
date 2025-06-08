@@ -8,7 +8,7 @@ permalink: /additional-resources
 ---
 
 # Navigating the GEE documentation
-The GEE documentation is comprehensive. Depending on what you are looking for, there are two main places in the official documentation to look: the **guides** and the **API documentation**. 
+The GEE documentation is comprehensive. Depending on what you are looking for, there are two main places in the official documentation to look: the **Guides** and the **Reference** (API documentation). 
 
 > **Note:** Google Earth Engine (GEE) can be accessed through two programming languages: JavaScript, and Python. In this training we have used the Python interface, but be aware that some of the documentation will show examples in JavaScript instead of Python. However, the Earth Engine commands are similar in both languages. If needed, the `geemap` module that we use in this training has a function for converting JavaScript code to Python. A tutorial is available [here](https://geemap.org/notebooks/15_convert_js_to_py/), and the function documentation is [here](https://geemap.org/conversion/?h=js_snippet_to_py#geemap.conversion.jrc_hist_monthly_history).
 
@@ -26,7 +26,7 @@ The tutorials can help when you need extra guidance on how to carry out a specif
 
 > **Use this when:** you want guidance on how to carry out a specific task, such as [how to do time series analysis with GEE](https://developers.google.com/earth-engine/tutorials/videos#time-series-analysis)
 
-## Reference: API documentation
+## Reference (API documentation)
 [The API documentation](https://developers.google.com/earth-engine/apidocs) provides information about specific functions in the `ee` interface to Python (and JavaScript). This can be helpful when you know which function you need to use, but need help with its exact usage, i.e., the inputs it accepts and the object it outputs.
 
 > **Use this when:** you need more information about how to use a specific `ee` function.
