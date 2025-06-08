@@ -9,8 +9,6 @@ logo: ./assets/logo1.png
 favicon: true
 
 navigation:
-  - name: Google Colab setup
-    link: ./assets/GEE%20in%20Python%20setup%20instructions/GEEinPythonsetupinstructions.html
   - name: Slides
     link: https://docs.google.com/presentation/d/e/2PACX-1vRv47Sy9SaPYx3K8yWOP7GpLiMNTKY4fRSLrVjOkbu1uGb5vRgVNJCzZM0uO1gVDQke-3BCaCS02s5E/pub?start=false&loop=false&delayms=3000
   - name: Notebooks
