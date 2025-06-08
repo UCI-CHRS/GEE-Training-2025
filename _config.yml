@@ -13,3 +13,5 @@ navigation:
     link: https://docs.google.com/presentation/d/e/2PACX-1vRv47Sy9SaPYx3K8yWOP7GpLiMNTKY4fRSLrVjOkbu1uGb5vRgVNJCzZM0uO1gVDQke-3BCaCS02s5E/pub?start=false&loop=false&delayms=3000
   - name: Notebooks
     link: https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks
+  - name: Additional Resources
+    link: ./assets/Additional%20Resources.md
