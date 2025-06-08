@@ -34,21 +34,21 @@ The tutorials can help when you need extra guidance on how to carry out a specif
 
 # Python modules
 There are many additional Python modules that you can use in your analysis besides `ee`. We've touched on a couple in this tutorial, but list here documentation for other Python modules commonly used for geospatial work in Python. 
- - **[geemap](https://geemap.org/)**: use for mapping `ee` data
- - **[numpy](https://numpy.org/doc/stable/)**: use for working with arrays and matrices
- - **[scipy](https://docs.scipy.org/doc/scipy/)**: provides general algorithms common in math and science. In particular, see that [stats submodule](https://docs.scipy.org/doc/scipy/reference/stats.html) for using and defining statistical distributions. 
- - **[matplotlib](https://matplotlib.org/stable/index.html)**: general Python plotting module
- - **[pandas](https://pandas.pydata.org/docs/)**: Python module for handling tabular data (dataframes)
- - **[geopandas](https://geopandas.org/en/stable/docs.html)**: extends `pandas` functionality to make it easier to perform geometric operations
- - **[xarray](https://docs.xarray.dev/en/stable/)**: use for working with labelled multi-dimensional arrays (including data from netCDF and other raster files)
- - **[cartopy](https://scitools.org.uk/cartopy/docs/latest/)**: use for mapping geospatial data in different projected coordinate systems
+- **[geemap](https://geemap.org/)**: use for mapping `ee` data
+- **[numpy](https://numpy.org/doc/stable/)**: use for working with arrays and matrices
+- **[scipy](https://docs.scipy.org/doc/scipy/)**: provides general algorithms common in math and science. In particular, see that [stats submodule](https://docs.scipy.org/doc/scipy/reference/stats.html) for using and defining statistical distributions. 
+- **[matplotlib](https://matplotlib.org/stable/index.html)**: general Python plotting module
+- **[pandas](https://pandas.pydata.org/docs/)**: Python module for handling tabular data (dataframes)
+- **[geopandas](https://geopandas.org/en/stable/docs.html)**: extends `pandas` functionality to make it easier to perform geometric operations
+- **[xarray](https://docs.xarray.dev/en/stable/)**: use for working with labelled multi-dimensional arrays (including data from netCDF and other raster files)
+- **[cartopy](https://scitools.org.uk/cartopy/docs/latest/)**: use for mapping geospatial data in different projected coordinate systems
 
 # Other resources
 
 > **Note:** [Awesome Earth Engine](https://awesome.geemap.org/) is a great curated list of Google Earth Engine resources and much more comprehensive than what is included here.
 
- - These [introductory slides](https://docs.google.com/presentation/d/1iZtkBNzl2HBWFT0wEhwCov89kyiBO7rSHcmMa6WNMa8/) from the GEE documentation give a nice overview of the different data types Earth Engine uses.
- - The authors of the `geemap` package have several resources to help with learning GEE and geemap, including: 
+- These [introductory slides](https://docs.google.com/presentation/d/1iZtkBNzl2HBWFT0wEhwCov89kyiBO7rSHcmMa6WNMa8/) from the GEE documentation give a nice overview of the different data types Earth Engine uses.
+- The authors of the `geemap` package have several resources to help with learning GEE and geemap, including: 
 	- a [series of GEE and geemap tutorials](https://www.youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3) on the [Open Geospatial Solutions YouTube channel](https://www.youtube.com/@giswqs)
 	- a [set of notebook-based tutorials](https://courses.geemap.org/)
 
@@ -56,13 +56,12 @@ There are many additional Python modules that you can use in your analysis besid
 If you are interested in more training on Google Earth Engine and/or Python programming, there are many free courses available online. 
 
 ### GEE
- - United Nations University Institute for Water, Environment, and Health (UNU-INWEH): [Spatial Data Management with Google Earth Engine](https://lc.unu.edu/courses/course-v1:UNU-INWEH+INWEH-19+2023-T2/about)
- - Spatial Thoughts [End-to-End Google Earth Engine Course](https://courses.spatialthoughts.com/end-to-end-gee.html)
+- United Nations University Institute for Water, Environment, and Health (UNU-INWEH): [Spatial Data Management with Google Earth Engine](https://lc.unu.edu/courses/course-v1:UNU-INWEH+INWEH-19+2023-T2/about)
+- Spatial Thoughts [End-to-End Google Earth Engine Course](https://courses.spatialthoughts.com/end-to-end-gee.html)
 
 ### Python
- - University of Helsinki: [Python Programming MOOC 2025](https://programming-25.mooc.fi/)
- - Coursera: [Python for Everybody](https://www.coursera.org/specializations/python#courses)
-   - [All course materials, including the book](https://www.py4e.com)
- - Codecademy: [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
-   - [Codecademy Python docs](https://www.codecademy.com/resources/docs/python)
-   - [All Codecademy Python resources](https://www.codecademy.com/catalog/language/python)
+- University of Helsinki: [Python Programming MOOC 2025](https://programming-25.mooc.fi/)
+- Coursera: [Python for Everybody](https://www.coursera.org/specializations/python#courses). See all course materials, including the book, [here](https://www.py4e.com)
+- Codecademy: [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
+- 	[Codecademy Python docs](https://www.codecademy.com/resources/docs/python)
+- 	[All Codecademy Python resources](https://www.codecademy.com/catalog/language/python)
