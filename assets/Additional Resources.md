@@ -1,5 +1,9 @@
-# Additional Resources
 ---
+layout: page
+title: "Additional Resources"
+permalink: /additional-resources
+---
+
 # Navigating the GEE documentation
 The GEE documentation is comprehensive. Depending on what you are looking for, there are two main places in the official documentation to look: the **guides** and the **API documentation**. 
 
