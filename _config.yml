@@ -2,6 +2,7 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 color-scheme: light
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
+markdown: GFM
 
 title: PEER2PEER Transboundary Water Security
 description: Google Earth Engine Training 2025
