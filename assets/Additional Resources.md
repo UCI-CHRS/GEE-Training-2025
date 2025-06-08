@@ -62,7 +62,7 @@ If you are interested in more training on Google Earth Engine and/or Python prog
 ### Python
  - University of Helsinki: [Python Programming MOOC 2025](https://programming-25.mooc.fi/)
  - Coursera: [Python for Everybody](https://www.coursera.org/specializations/python#courses)
-	- [All course materials, including the book](https://www.py4e.com)
+   - [All course materials, including the book](https://www.py4e.com)
  - Codecademy: [Learn Python 3](https://www.codecademy.com/learn/learn-python-3)
-	- [Codecademy Python docs](https://www.codecademy.com/resources/docs/python)
-	- [All Codecademy Python resources](https://www.codecademy.com/catalog/language/python)
+   - [Codecademy Python docs](https://www.codecademy.com/resources/docs/python)
+   - [All Codecademy Python resources](https://www.codecademy.com/catalog/language/python)
