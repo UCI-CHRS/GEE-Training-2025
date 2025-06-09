@@ -18,9 +18,9 @@ Please follow these instructions before moving on to the tutorials.
 ## Tutorial 1: Exploring the Data Catalog
 In this tutorial, we will load and map several datasets relevant to hydrology and climate available on the Google Earth Engine data catalog.  
 
-To follow along, click "Open in Colab" at the top of the notebook [here]().  
+To follow along, click "Open in Colab" at the top of the notebook [here](https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks/Tutorial01_Access_Data.ipynb).  
 
-View the full tutorial (including notebook cell outputs) [here]().  
+View the full tutorial (including notebook cell outputs) [here](./examples/Tutorial01_Access_Data/Tutorial01_Access_Data.html).  
 
 ---
 
