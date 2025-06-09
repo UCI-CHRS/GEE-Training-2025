@@ -11,6 +11,8 @@ favicon: true
 navigation:
   - name: Home
     link: ./
+  - name: Slides
+    link: ./slides
   - name: Notebooks
     link: https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks
   - name: Additional Resources
