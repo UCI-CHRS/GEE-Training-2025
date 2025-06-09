@@ -36,7 +36,7 @@ The tutorials can help when you need extra guidance on how to carry out a specif
 There are many additional Python modules that you can use in your analysis besides `ee`. We list here documentation for Python modules commonly used for geospatial work in Python (some of which we used in this training). 
 - **[geemap](https://geemap.org/)**: use for mapping `ee` data
 - **[numpy](https://numpy.org/doc/stable/)**: use for working with arrays and matrices
-- **[scipy](https://docs.scipy.org/doc/scipy/)**: provides general algorithms common in math and science. In particular, see that [stats submodule](https://docs.scipy.org/doc/scipy/reference/stats.html) for using and defining statistical distributions. 
+- **[scipy](https://docs.scipy.org/doc/scipy/)**: provides general algorithms common in math and science. In particular, see the [stats submodule](https://docs.scipy.org/doc/scipy/reference/stats.html) for using and defining statistical distributions. 
 - **[matplotlib](https://matplotlib.org/stable/index.html)**: general Python plotting module
 - **[pandas](https://pandas.pydata.org/docs/)**: Python module for handling tabular data (dataframes)
 - **[geopandas](https://geopandas.org/en/stable/docs.html)**: extends `pandas` functionality to make it easier to perform geometric operations
