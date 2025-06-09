@@ -9,7 +9,7 @@ All slides used in the training are below, or can be viewed larger [here](https:
 ---
 
 ## Before we get started: Set up Google Colab
-Detailed instructions for setting up Google Colab are [here](assets/GEE%20in%20Python%20setup%20instructions/GEEinPythonsetupinstructions.html).  
+Detailed instructions for setting up Google Colab are [here](./setup).  
 
 Please follow these instructions before moving on to the tutorials.
 
