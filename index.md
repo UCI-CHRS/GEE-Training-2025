@@ -27,9 +27,9 @@ View the full tutorial (including notebook cell outputs) [here](./examples/Tutor
 ## Tutorial 2: Surface Water Change Over Time
 In this tutorial, we will analyze seasonality and trends in surface water area over time.  
 
-To follow along, click "Open in Colab" at the top of the notebook [here]().  
+To follow along, click "Open in Colab" at the top of the notebook [here](https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks/Tutorial02_SurfaceWater.ipynb).  
 
-View the full tutorial (including notebook cell outputs) [here]().
+View the full tutorial (including notebook cell outputs) [here](./examples/Tutorial02_SurfaceWater.html).
 
 ---
 
