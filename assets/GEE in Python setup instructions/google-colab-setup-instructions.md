@@ -94,18 +94,18 @@ permalink: /setup
 
 # Step 4: Open a Colab notebook and authenticate with your Google Cloud project ID
 
-21. Visit [**https://colab.research.google.com/**](https://colab.research.google.com/) and click **\+ new notebook**  
+21. Visit [**https://colab.research.google.com/**](https://colab.research.google.com/) and click **+ new notebook**  
     
 
 ![](./images/image17.png)
 
-22. Paste the following text in the notebook cell, replacing PROJECT\_ID with the project ID from your Google Cloud project (making sure it is enclosed in ‘quotation marks’):
+22. Paste the following text in the notebook cell, replacing PROJECT_ID with the project ID from your Google Cloud project (making sure it is enclosed in 'quotation marks'):
 
 ```
 import ee 
 import geemap.core as geemap 
 ee.Authenticate() 
-ee.Initialize(project='PROJECT\_ID')
+ee.Initialize(project='PROJECT_ID')
 ```
 
 23. Click the **run button** (triangle in a circle) on the left side of the notebook cell
@@ -116,23 +116,13 @@ ee.Initialize(project='PROJECT\_ID')
 
 ![](./images/image19.png)
 
-25. You’re ready to start using Google Earth Engine\! Click **\+ Code** to add a new notebook cell.
+25. You’re ready to start using Google Earth Engine! Click **+ Code** to add a new notebook cell.
 
 ![](./images/image20.png)
 
-26. Paste the following code into a code cell to test out the **ee** and **geemap** modules. This should give you a map of air temperature that looks like the one in the screenshot below. 
+26. Paste the following code into a code cell to verify that the **ee** module is working as expected. If running the cell produces no errors, you are all set!
 
 ```
-jan_2023_temperature = (
-	ee.ImageCollection('ECMWFERA5\_LANDMONTHLY\_AGGR')
-	  .filterDate('2023-01')
-	  .select('temperature\_2m')
-	  .first()
-)
-visualization\params = {'min': 250, 'max': 320}
-Map = geemap.Map() 
-Map.addLayer(jan_2023_temperature, visualization_params, 'Air temperature [K] at 2m height' ) 
-Map
+image = ee.Image("NASA/ASTER_GED/AG100_003")
+print("success!")
 ```
-
-![](./images/image21.png)
