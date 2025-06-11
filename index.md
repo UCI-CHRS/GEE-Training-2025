@@ -2,7 +2,7 @@
 Materials for the Google Earth Engine Training held by the Accelnet PEER2PEER early career researchers in Dar es Salaam, Tanzania, June 2025.
 
 ## Slides
-All slides used in the training are below, or can be viewed larger [here](./slides)
+All slides used in the training are below.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRv47Sy9SaPYx3K8yWOP7GpLiMNTKY4fRSLrVjOkbu1uGb5vRgVNJCzZM0uO1gVDQke-3BCaCS02s5E/pubembed?start=false&loop=false&delayms=3000" frameborder="0" width="600" height="380" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
