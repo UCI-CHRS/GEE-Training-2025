@@ -102,8 +102,7 @@ permalink: /setup
 22. Paste the following text in the notebook cell, replacing PROJECT_ID with the project ID from your Google Cloud project (making sure it is enclosed in 'quotation marks'):
 
 ```
-import ee 
-import geemap.core as geemap 
+import ee
 ee.Authenticate() 
 ee.Initialize(project='PROJECT_ID')
 ```
