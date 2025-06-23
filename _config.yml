@@ -13,6 +13,8 @@ navigation:
     link: ./
   - name: Slides
     link: ./slides
+  - name: Setup
+    link: ./setup
   - name: Notebooks
     link: https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks
   - name: Additional Resources
