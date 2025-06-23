@@ -20,8 +20,6 @@ In this tutorial, we will load and map several datasets relevant to hydrology an
 
 To follow along, click "Open in Colab" at the top of the notebook [here](https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks/Tutorial01_Access_Data.ipynb).  
 
-View the full tutorial (including notebook cell outputs) [here](./examples/Tutorial01_Access_Data/Tutorial01_Access_Data.html).  
-
 ---
 
 ## Tutorial 2: Surface Water Change Over Time
@@ -29,13 +27,9 @@ In this tutorial, we will analyze seasonality and trends in surface water area o
 
 To follow along, click "Open in Colab" at the top of the notebook [here](https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks/Tutorial02_SurfaceWater.ipynb).  
 
-View the full tutorial (including notebook cell outputs) [here](./examples/Tutorial02_SurfaceWater.html).
-
 ---
 
 ## Tutorial 3: Mapping Drought
 In this tutorial, we will calculate and map several drought indices.  
 
-To follow along, click "Open in Colab" at the top of the notebook [here]().  
-
-View the full tutorial (including notebook cell outputs) [here]().
+To follow along, click "Open in Colab" at the top of the notebook [here](https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks/Tutorial03_TWSA.ipynb).  
