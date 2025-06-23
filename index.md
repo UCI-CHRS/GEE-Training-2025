@@ -30,6 +30,6 @@ To follow along, click "Open in Colab" at the top of the notebook [here](https:/
 ---
 
 ## Tutorial 3: Mapping Drought
-In this tutorial, we will analyze changes in total water storage at the basin scale
+In this tutorial, we will analyze changes in total water storage at the basin scale.
 
 To follow along, click "Open in Colab" at the top of the notebook [here](https://github.com/UCI-CHRS/GEE-Training-2025/blob/main/notebooks/Tutorial03_TWSA.ipynb).  
