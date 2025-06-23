@@ -27,8 +27,6 @@ permalink: /setup
 
 ![](./images/image3.png)
 
-# 
-
 # Step 2: Enable Google Earth Engine API for your cloud project
 
 6. After creating your project, click on “**Select Project**” under Notifications. This will show the dashboard for the Google Cloud project you just created. This will take you to [**console.cloud.google.com/home/dashboard**](http://console.cloud.google.com/home/dashboard)
